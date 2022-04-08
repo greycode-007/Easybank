@@ -22,7 +22,7 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-page-for-easybank-built-using-alpinejs-html5-and-css3-XDisJDQcy)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://greycode-007.github.io/Easybank/)
 
 ## My process
 
@@ -49,3 +49,6 @@ document.getElementById("rounded").onclick = function() {
   
   document.getElementById("circle").style.display = "block";
 }
+
+
+Appreciation to front end mentor, for inspiring me to work on the project. 
