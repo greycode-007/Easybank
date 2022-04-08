@@ -49,14 +49,3 @@ document.getElementById("rounded").onclick = function() {
   
   document.getElementById("circle").style.display = "block";
 }
-
-
-## Author
-
-- Twitter - [@Stanleymm2 ](https://www.twitter.com/stanleymm2)
-- Linkedin - [](https://linkedin.com/stanleyanosike)
-
-
-## Acknowledgments
-
-Big thanks to  Frontend Mentor, for providing this great mock-ups to help Frontend Developer build realistic projects thereby developing our coding skills.
