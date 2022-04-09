@@ -265,19 +265,11 @@ height: 40px;
 }
 
 
-.section-first-container .row-wrapper .mobileBg{
-  position: absolute;
-  top: -10rem;
-  height: 50px;
-  width: 60%;
+ /* hide desktop images */
+ .section-first-container .row-wrapper .mobileBg{
   display: none;
 }
-
-.section-first-container .row-wrapper .mobile-mock{
-  position: absolute;
-  top: -5rem;
-  right: -12rem;
-  z-index: 1;
+.section-first-container .row-wrapper .mobile-mock {
   display: none;
 }
 
@@ -294,7 +286,6 @@ height: 40px;
   text-align: center;
   position: absolute;
   z-index: -1;
-  overflow: hidden;
 }
 
 .row-wrapper .desktop-mockup{
@@ -640,21 +631,12 @@ height: 40px;
   }
 
     /* hide desktop images */
-    .row-wrapper .desktopBg .desktop-mockup {
-      position:absolute;
-      top: -5rem;
-      width:100%;
-      height: 700px;
-      margin: auto;
-      left: 0em;
-      right: 0;
-      text-align: center;
-      position: absolute;
-      z-index: -1;
+    .section-first-container .row-wrapper .desktop-mockup {
       display: none;
-      overflow: hidden;
     }
-    
+    .section-first-container .row-wrapper .desktopBg {
+      display: none;
+    }
     
     
       /*show images on mobile 1 */
@@ -691,7 +673,7 @@ height: 40px;
       height: 320px;
     }
     .right{
-      height: 330px;
+      height: 310px;
     }
     
     .section-first-container .row-wrapper  h1 {
@@ -892,20 +874,14 @@ height: 40px;
   }
 
   
-    /* hide desktop images */
-.row-wrapper .desktopBg .desktop-mockup {
-  position:absolute;
-  top: -5rem;
-  width:100%;
-  height: 700px;
-  margin: auto;
-  left: 0em;
-  right: 0;
-  text-align: center;
-  position: absolute;
-  z-index: -1;
+ /* hide desktop images */
+ .section-first-container .row-wrapper .desktop-mockup {
   display: none;
 }
+.section-first-container .row-wrapper .desktopBg {
+  display: none;
+}
+
 
 
 
@@ -1029,6 +1005,14 @@ text-align: center;
    background-color: none;
  }
 
+
+ /* hide desktop images */
+ .section-first-container .row-wrapper .mobileBg{
+  display: none;
+}
+.section-first-container .row-wrapper .mobile-mock {
+  display: none;
+}
 
 
 .row-wrapper .desktopBg{

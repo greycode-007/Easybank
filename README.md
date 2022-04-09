@@ -1,8 +1,19 @@
-# Frontend Mentor - Easybank landing page solution
+# Easybank landing page 
 
 This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+
 ## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,7 +42,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 
 ### What I learned
@@ -49,6 +59,14 @@ document.getElementById("rounded").onclick = function() {
   
   document.getElementById("circle").style.display = "block";
 }
+```
 
+## Author
 
-Appreciation to front end mentor, for inspiring me to work on the project. 
+- Linkedin - [Stanley anosike](https://www.linkedin.com/stanleyanosike)
+- Twitter - [@stanleymm2](https://www.twitter.com/stanleymm2)
+
+## Acknowledgments
+
+Appreciation to front end mentor for the design inspiration. Appreciation to "Uzochukwu Okafor" whose post of this same project on linkedin challenged me to build this. All thanks to God Almighty.
+
